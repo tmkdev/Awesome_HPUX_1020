@@ -17,7 +17,7 @@ Curated list of HP-UX 10.20 links for getting your vintage PA-RISC box up and ru
 - [eso.org 10.20 Depots](ftp://ftp.eso.org/hpux/freesoftware/10.2/) - ftp://ftp.eso.org/hpux/freesoftware/10.2/
 - [Steve at kspei.com](http://ftp.kspei.com/pub/steve/hp/10.20/)
 - [HPUX Browsers](https://browsers.evolt.org/?ie/hpux)
-
-
+- [mirror.cogentico.com](http://mirror.cogentco.com/pub/hpux/)
+- [merijn downloads](https://www.hpux.ws/merijn/downloads.html)
 
 
