@@ -33,3 +33,4 @@ Curated list of HP-UX 10.20 links for getting your vintage PA-RISC box up and ru
 
 ## Links
 - [Unix Guru Universe](http://www.ugu.com/sui/ugu/show?I=hpux.ftp&F=1111111111&G=Y) - Lots of broken links here sadly :(
+- [How HPUX Ignite works](https://docstore.mik.ua/manuals/hp-ux/en/5992-5309/ch01s05.html)
